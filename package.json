@@ -1,0 +1,16 @@
+{
+  "name": "candycane",
+  "version": "0.0.1",
+  "description": "A sweet path for building APIs with node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Babel",
+    "ES6"
+  ],
+  "author": "Ryan Tablada",
+  "license": "MIT"
+}
