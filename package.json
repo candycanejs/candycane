@@ -12,5 +12,8 @@
     "ES6"
   ],
   "author": "Ryan Tablada",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
