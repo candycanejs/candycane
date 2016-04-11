@@ -23,6 +23,6 @@
     "babel-preset-stage-0": "^6.5.0",
     "broccoli": "^0.16.9",
     "broccoli-babel-transpiler": "github:rtablada/broccoli-babel-transpiler#babel-6",
-    "ember-cli": "*"
+    "ember-cli": "^2.4.3"
   }
 }
