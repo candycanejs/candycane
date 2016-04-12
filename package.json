@@ -15,7 +15,8 @@
   "author": "Ryan Tablada",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "walk": "^2.3.9"
   },
   "devDependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
