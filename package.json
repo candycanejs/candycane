@@ -1,6 +1,6 @@
 {
   "name": "candycane",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "A sweet path for building APIs with node.",
   "main": "index.js",
   "scripts": {
